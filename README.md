@@ -1,6 +1,6 @@
 ![MasterHead](https://www.desiglitters.com/wp-content/uploads/2015/10/Welcome-To-My-Profile-Image-DG123309.gif)
-<h1 align="center">Hi 👋, I'm Imesh Premjayanth</h1>
-<h3 align="center">UG</h3>
+<h1 align="center">Hi 👋, I'm Imesh Premjayanth UG</h1>
+<h3 align="center"></h3>
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imeshprem&label=Profile%20views&color=0e75b6&style=flat" alt="imeshprem" /> </p>
