@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imesh Premjayanth </h1>
-<h3 align="center">Undergraduate Student at SLIIT</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imeshprem&label=Profile%20views&color=0e75b6&style=flat" alt="imeshprem" /> </p>
@@ -8,17 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/imeshprem" target="blank"><img src="https://img.shields.io/twitter/follow/imeshprem?logo=twitter&style=for-the-badge" alt="imeshprem" /></a> </p>
 
-- 🌱 I’m currently learning **MEARN**
-
 - 👯 I’m looking to collaborate on **community projects**
 
 - 🤝 I’m looking for help with **community projects**
 
-- 💬 Ask me about **java, js, c++**
-
 - 📫 How to reach me **supunimesh99gmail.com**
-
-- ⚡ Fun fact **When I was a kid, I really wanted to be a minister😂🥲**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
