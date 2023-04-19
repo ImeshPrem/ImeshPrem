@@ -1,4 +1,3 @@
-![MasterHead]
 <h1 align="center">Hi 👋, I'm Imesh Premjayanth </h1>
 <h3 align="center">Undergraduate Student at SLIIT</h3>
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
